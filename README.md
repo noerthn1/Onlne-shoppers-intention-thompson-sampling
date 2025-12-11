@@ -93,10 +93,3 @@ This approach is widely used in:
 
 ---
 
-## 📁 Project Structure
-
-├── thompson_sampling.ipynb # Google Colab notebook
-├── README.md # Project documentation
-└── data/
-└── online_shoppers_intention.csv
-
